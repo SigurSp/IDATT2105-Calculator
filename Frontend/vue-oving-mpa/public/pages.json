@@ -1,0 +1,19 @@
+[{
+  "link": { "text": "Home", "url": "index.html" },
+  "pageTitle": "Home Page",
+  "content": "This is the home page content",
+  "published": true
+},
+{
+"link": { "text": "Calculator", "url": "calculator.vue" },
+"pageTitle": "Calculator Page",
+"content": "This is the calculator page content",
+  "published": true
+},
+{
+"link": { "text": "Contact", "url": "contact.vue" },
+"pageTitle": "Contact Page",
+"content": "This is the contact page content",
+  "published": true
+}
+]
